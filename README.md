@@ -1,6 +1,7 @@
 # GC Data site keywords
 
 analysis.ipynb contains the parsing script to use canada-tbs-links.json.
+canada-tbs-links.json is available upon request or via Slack group.
 
 config.py [NOT SHARED] contains the credentials for the neo4j instance either online or locally, organized:
 
