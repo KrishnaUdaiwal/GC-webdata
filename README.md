@@ -10,6 +10,8 @@ remote = {}
 remote["uri"] = 
 remote["user"] = "neo4j"
 remote["password"] = ""
+
+## For local instance, must have a neo4j instance running! ##
 localhost = {}
 localhost["uri"] = "bolt://localhost:7687"
 localhost["user"] = "neo4j"
